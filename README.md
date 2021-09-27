@@ -9,3 +9,5 @@ On wide screens the footer was not staying at the bottom of the screen.
 I addressed this by changing to a sticky footer on wide screens.
 
 Viewable on CodePen here.
+
+https://codepen.io/cjgsaunders/pen/abwQLJq
