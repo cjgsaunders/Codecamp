@@ -1,8 +1,11 @@
 # Landing-page-demo.
 
-This is an old project I made in 2019 when I decided to become a developer. 
-My goal at the time was to learn CSS Grid Layouts by building a simple page.
+My goal was to learn CSS Grid Layouts by building a simple page.
 
-Viewable on codepen here
+This project adheres to responsive web design with the content adjusting to fit the screen size.
 
-https://codepen.io/cjgsaunders/pen/abwQLJq
+Recently I fixed white space appearing under the footer.
+On wide screens the footer was not staying at the bottom of the screen.
+I addressed this by changing to a sticky footer on wide screens.
+
+Viewable on CodePen here.
