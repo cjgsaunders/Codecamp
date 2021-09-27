@@ -3,10 +3,8 @@
 My goal was to learn CSS Grid Layouts by building a simple page.
 
 This project adheres to responsive web design with the content adjusting to fit the screen size.
-
-Recently I fixed white space appearing under the footer.
-On wide screens the footer was not staying at the bottom of the screen.
-I addressed this by changing to a sticky footer on wide screens.
+CSS Grid allows the the responsive layout.
+A single media query breakpoint was used to change to a sticky footer for wide screens. (white space appears under the footer on wide screens with no content to scroll)
 
 Viewable on CodePen here.
 
